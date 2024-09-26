@@ -1,4 +1,4 @@
-# sbi_225a
+# Shirley Bi
  
 This is my repo for BMS 225A - Data Science. My work is organized as follows:
 
