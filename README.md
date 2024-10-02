@@ -1,4 +1,3 @@
-yay look at me using github
 
 # Shirley Bi
  
